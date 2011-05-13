@@ -1,0 +1,11 @@
+{
+	"name": "U-Cursos",
+	"description": "Una Herramienta de Apoyo a la Docencia Presencial",
+	"version": "1.0",
+	"icons": { "128": "128.png"},
+	"app": {
+		"urls": ["http://www.dcc.uchile.cl/~rduenas/"],
+		"launch": { "web_url": "https://www.u-cursos.cl/" }
+	},
+	"permissions": []
+}
